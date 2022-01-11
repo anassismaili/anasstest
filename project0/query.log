@@ -1,0 +1,18 @@
+1641928395298 - Excecuting 'INSERT INTO BankLocation (Address) Values ('3th street south camden avenue');
+1641928395627 - Excecuting 'SELECT * FROM BankLocation;
+1641928395636 - Excecuting 'SELECT * FROM BankLocation;
+1641928443986 - Excecuting 'SELECT * FROM Customers;
+1641928461757 - Excecuting 'SELECT * FROM AccountType;
+1641928477345 - Excecuting 'INSERT INTO Customers (CustomerName, ContactInfo, branchId) Values ('lina dominguez', '+12542359874',11);1641928477356 - Excecuting 'SELECT * FROM Customers;
+1641928477361 - Excecuting 'INSERT INTO AccountType (CustomerId, AccountType) Values (8,'Personal');
+1641928477368 - Excecuting 'SELECT * FROM AccountType;
+1641928477371 - Excecuting 'INSERT INTO Accounts (CustomerId, AccountTypeId, AccountNumber, Balance) Values ('8', '1', '70987910', '0');
+1641928477380 - Excecuting 'SELECT * FROM Accounts;
+1641928499259 - Excecuting 'SELECT * FROM Customers;
+1641928504938 - Excecuting 'SELECT * FROM Accounts;
+1641928520008 - Excecuting 'SELECT * FROM Accounts;
+1641928520011 - Excecuting 'UPDATE Accounts SET Balance = 800 WHERE CustomerId = 8;'
+1641928531745 - Excecuting 'SELECT * FROM Customers;
+1641928535264 - Excecuting 'DELETE FROM Customers WHERE CustomerId = 7;'
+1641928535273 - Excecuting 'SELECT * FROM Customers;
+1641928546401 - Excecuting 'SELECT * FROM Accounts;
