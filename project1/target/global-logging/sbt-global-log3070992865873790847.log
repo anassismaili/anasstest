@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(c, Some(f93e5030-4da5-4099-a1dc-f5c57e955620), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: c[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: c[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: c[0m
+[0m[[0m[31merror[0m] [0m[0mc[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-bbb543bb060b5c495b8d. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-bbb543bb060b5c495b8d_lock, error 5[0m

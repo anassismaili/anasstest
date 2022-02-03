@@ -1,0 +1,34 @@
+1643229472355:~sbt
+1643229500250:~run
+1643251244832:this user is invalide! Enter a valid user01~v
+1643251286138:~run
+1643744243020:run
+1643745589772:~run
+1643745687117:run
+1643745823919:c
+1643746751688:run
+1643746790939:att10plyWteam
+1643746819390:run
+1643746836980:att10plyWteamatt10plyWtearun
+1643746841356:run
+1643754251600:RUN
+1643754257685:run
+1643765234905:org.apache.spark.sql.catalyst.parser.ParseException:
+1643765235067:no viable alternative at input 'INSERT OVERWRITE temp_table'(line 1, pos 17)
+1643765235127:== SQL ==
+1643765235199:INSERT OVERWRITE temp_table SELECT * FROM temp_data
+1643765244741:org.apache.spark.sql.catalyst.parser.ParseException:
+1643765244818:no viable alternative at input 'INSERT OVERWRITE temp_table'(line 1, pos 17)
+1643765244862:== SQL ==
+1643765244908:INSERT OVERWRITE temp_table SELECT * FROM temp_data
+1643765273422:run
+1643765757486:org.apache.spark.sql.catalyst.parser.ParseException:
+1643765908286:run
+1643770616617:sbt
+1643770639251:run
+1643819730033:RUN
+1643819734807:run
+1643821345226:sbt
+1643821348128:run
+1643858823927:sbt
+1643858827213:run
